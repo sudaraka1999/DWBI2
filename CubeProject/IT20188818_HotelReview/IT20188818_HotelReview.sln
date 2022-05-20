@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "IT20188818_HotelReview", "IT20188818_HotelReview\IT20188818_HotelReview.dwproj", "{90816305-BBF8-4052-BFF8-E9976B4F2C51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90816305-BBF8-4052-BFF8-E9976B4F2C51}.Development|Default.ActiveCfg = Development
+		{90816305-BBF8-4052-BFF8-E9976B4F2C51}.Development|Default.Build.0 = Development
+		{90816305-BBF8-4052-BFF8-E9976B4F2C51}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F31DFDF5-29B1-41AD-ADA7-E495D387D9BA}
+	EndGlobalSection
+EndGlobal
